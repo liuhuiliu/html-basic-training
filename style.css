@@ -1,0 +1,34 @@
+@import'style2.css';
+h1 {
+    background-color: khaki;
+}
+.p1{
+    color: coral;
+    background-color: cornsilk;
+}   
+.p2{
+    color: darkgreen;
+    background-color: darksalmon;
+}
+.p3,.p4{
+    font-size: 20px;
+    color: darkcyan;
+}
+.p7 .p8{
+    color: darkolivegreen;
+}
+.p7>.p10{
+    color: crimson;
+}
+.p12+span{
+    color: rgb(145, 13, 96);
+    font-size: 60px;
+}
+.p13~span{color: violet;}
+a{
+    color: cadetblue;
+}
+a:hover{color: darkred;}
+a:active{color: dodgerblue;}
+.child:first-of-type{color: fuchsia;}
+.child:nth-of-type(2){color: green;}
