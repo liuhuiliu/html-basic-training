@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://js.jirengu.com
+
+Copyright (c) 2019 by liuhuiliu (http://js.jirengu.com/pucix/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+<meta name="description" content="[add your bin description]" />
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+  <link rel="stylesheet" href="http://at.alicdn.com/t/font_1446729_0byrt4f20qr4.css
+">
+  <style>
+  @font-face {
+  font-family: 'iconfont';  /* project id 1446729 */
+  src: url('//at.alicdn.com/t/font_1446729_2ylaxgcezjg.eot');
+  src: url('//at.alicdn.com/t/font_1446729_2ylaxgcezjg.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1446729_2ylaxgcezjg.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1446729_2ylaxgcezjg.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1446729_2ylaxgcezjg.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1446729_2ylaxgcezjg.svg#iconfont') format('svg');
+}
+    p{
+      font-family: iconfont;
+      font-size: 50px;
+      text-shadow: 1px 1px 4px red;
+    }
+    .icon-tianqi{
+      font-size:50px;
+    }
+
+  </style>
+  <link href="https://cdn.bootcss.com/font-awesome/5.10.2/css/all.css" rel="stylesheet">
+  
+  
+</head>
+<body>
+  <p>&#xe623; </p>
+  <p class="iconfont icon-inconcloud"></p>
+  <p class="iconfont icon-tianqi" ></p>
+  <p class=""> 
+
+
+
+</body>
+</html>
